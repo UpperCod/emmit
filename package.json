@@ -1,6 +1,6 @@
 {
   "name": "emmit",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "It is a small library for the management of events",
   "main": "index.js",
   "module": "index.js",
